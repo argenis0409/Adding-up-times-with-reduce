@@ -1,0 +1,23 @@
+{
+  "name": "adding-up-times-with-reduce",
+  "version": "1.0.0",
+  "description": "Playing with reduce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "static -H \"{\\\"Cache-Control\\\": \\\"no-cache, must-revalidate\\\"}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argenis0409/Adding-up-times-with-reduce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argenis0409/Adding-up-times-with-reduce/issues"
+  },
+  "homepage": "https://github.com/argenis0409/Adding-up-times-with-reduce#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
